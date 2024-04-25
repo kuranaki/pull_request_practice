@@ -1,3 +1,3 @@
 # favorite food
 
-apple
+grapegit add src/favorite_food.md
